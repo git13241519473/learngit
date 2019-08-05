@@ -9,3 +9,4 @@ zhe shi yi ju zhong wen.
 我这里解决了一个bug1021
 
 添加了一个分支 develop01
+git diff head -- readme.txt
